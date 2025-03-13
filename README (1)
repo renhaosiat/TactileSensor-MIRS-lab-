@@ -1,0 +1,4 @@
+ATPM.ckpt: Pre-trained ATPM model checkpoint.
+WirelessEAntennaSensing.py: Python script for collecting data from the E-Antenna using the wireless BLE protocol.
+APTM_verification.py: Python script for testing and verifying the ATPM model.
+Modeling_magneticField.m: magnetism modeling.
